@@ -5,4 +5,9 @@
     padding: 0%;
 }
 
-/* custom width */
+/* custom Header */
+
+.custom-header-text
+{
+    font-size: 70px;
+}
