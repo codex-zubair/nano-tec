@@ -5,6 +5,24 @@
     padding: 0%;
 }
 
+
+
+/* Import Font MerriWeather */
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&family=Merriweather:wght@700&family=News+Cycle&display=swap');
+/* Import Font MerriWeather */
+
+
+/* Using Google Font */
+header h1
+{
+    font-family: 'Merriweather', serif;
+
+}
+/* Using Google Font */
+
+
+
+
 /* custom Header */
 
 .custom-header-text
